@@ -36,7 +36,6 @@ Extract structured parameters from the user's inquiry in Russian, Ukrainian, or 
 Do not guess missing values — leave them as null (None).
 """
 
-# Точные имена из списка твоего API-ключа
 CANDIDATE_MODELS = [
     "gemini-3.1-flash-lite",
     "gemini-3.5-flash-lite",
