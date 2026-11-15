@@ -95,13 +95,13 @@ Test Full AI Extraction:
 
 Select a language and click Buy.
 
-Send a text message: Хочу купить виллу в Махмутларе или Оба, бюджет от 90к до 150к евро
+Send a text message: "I want to buy villa in muhmutlar for 100k-120k"
 
 The bot will parse all parameters at once and immediately show the summary card asking for your phone number.
 
 Test Partial AI Extraction (Hybrid Flow):
 
-Start over (/start), choose Buy, and send: Ищу квартиру в Клеопатре или Центре (no budget specified).
+Start over (/start), choose Buy, and send: "Looking for an apartment in Mahmutlar" (no budget specified).
 
 The bot will extract property_type="apartment" and districts=["Center"], skip those questions, and only prompt you with buttons to select your budget range.
 
