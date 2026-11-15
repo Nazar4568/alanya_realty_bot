@@ -1,3 +1,4 @@
+<img width="526" height="505" alt="Screenshot 2026-11-15 at 19 17 54" src="https://github.com/user-attachments/assets/bd2f771f-ab66-4e22-a334-5e9bc11be7c7" />
 # Alanya Real Estate Lead-Gen Telegram Bot
 
 An asynchronous Telegram bot designed to collect and qualify real estate leads for the Alanya (Turkey) property market. 
