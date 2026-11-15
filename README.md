@@ -20,6 +20,7 @@ The bot supports two input modes: natural language parsing via the Gemini API (e
 * **Webhook Automation (`services/n8n_webhook.py`):**
   * Sends saved lead payloads asynchronously via `httpx` to an `n8n` webhook endpoint, which appends rows to Google Sheets and sends formatted alerts to a Telegram channel/chat.
 <img width="526" height="505" alt="Screenshot 2026-11-15 at 19 17 54" src="https://github.com/user-attachments/assets/bd2f771f-ab66-4e22-a334-5e9bc11be7c7" />
+
 ## Tech Stack
 
 * **Language:** Python 3.11+
